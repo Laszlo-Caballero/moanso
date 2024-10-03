@@ -13,5 +13,5 @@ def dividir(a,b):
     return a/b;
 
 def raiz(a):
-    pass
+    return math.sqrt(a)
 

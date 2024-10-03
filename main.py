@@ -1,7 +1,7 @@
 import math
 
 def sumar(a,b):
-    pass
+    return a+b;
 
 def restar(a,b):
     pass

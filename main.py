@@ -3,9 +3,8 @@ import math
 def sumar(a,b):
     return a+b;
 
-def restar(a,b):
-    pass
-
+def restar(self, a, b):
+        return a - b
 def multiplicar(a,b):
     pass
 

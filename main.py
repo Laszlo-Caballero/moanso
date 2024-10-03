@@ -10,7 +10,7 @@ def multiplicar(a,b):
     return a * b;
 
 def dividir(a,b):
-    pass
+    return a/b;
 
 def raiz(a):
     pass
